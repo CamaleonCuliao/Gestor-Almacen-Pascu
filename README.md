@@ -39,6 +39,9 @@ Digitalizar el control de stock de un almacén.</br>
 Vista tipo dashboard con cajas que indican "Stock bajo","Productos más usados" y una tabla de materiales.
 </br>
 <br>
+
+# Miembros Del Grupo
+
 <table>
   <tr><th>Miembros</th><th>GitHub</th></tr>
   <tr><td>Alejandro Gomez</td><td>https://github.com/CamaleonCuliao</td></tr>
