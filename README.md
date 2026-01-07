@@ -19,3 +19,11 @@ Digitalizar el control de stock de un almacén.</br>
 </ul>
 <b>Imagen de referencia</b></br>
 Vista tipo dashboard con cajas que indican "Stock bajo","Productos más usados" y una tabla de materiales
+
+<table>
+  <tr><th>Miembros</th></tr>
+  <tr><td>Alejandro Gomez</td></tr>
+  <tr><td>Alejandro Gálvez</td></tr>
+  <tr><td>Daniél Juan Licián</td></tr>
+  <tr>Davíd Pascual</tr>
+</table>
