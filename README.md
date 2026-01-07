@@ -16,6 +16,7 @@ Gestor de almacen - Proyecto de Digitalizacion
   <tr><td>Historial de movimientos.</td><td>⚪</td></tr>
   <tr></tr><td>Usuarios por departamento.</td><td>⚪</td></tr>
 </table>
+
 # PROYECTO 2 - Gestión de almacén y material fungible
 <b>Contexto</b></br>
 Una empresa industrial pierde dinero porque <b>no sabe exactamente que material tiene</b>, ni cuándo reponerlo.</br>
