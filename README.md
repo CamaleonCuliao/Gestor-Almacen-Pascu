@@ -18,12 +18,13 @@ Digitalizar el control de stock de un almacén.</br>
   <li>Usuarios por departamento.</li>
 </ul>
 <b>Imagen de referencia</b></br>
-Vista tipo dashboard con cajas que indican "Stock bajo","Productos más usados" y una tabla de materiales
+Vista tipo dashboard con cajas que indican "Stock bajo","Productos más usados" y una tabla de materiales.
+</br>
 
 <table>
-  <tr><th>Miembros</th></tr>
-  <tr><td>Alejandro Gomez</td></tr>
-  <tr><td>Alejandro Gálvez</td></tr>
-  <tr><td>Daniél Juan Licián</td></tr>
-  <tr>Davíd Pascual</tr>
+  <tr><th>Miembros</th><th>GitHub</th></tr>
+  <tr><td>Alejandro Gomez</td><td>https://github.com/CamaleonCuliao</td></tr>
+  <tr><td>Alejandro Gálvez</td><td>https://github.com/Us3r2342</td></tr>
+  <tr><td>Daniél Juan Licián</td><td>https://github.com/dannijl88</td></tr>
+  <tr><td>Davíd Pascual</td><td>https://github.com/David-cds</td></tr>
 </table>
