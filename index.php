@@ -23,6 +23,9 @@
         main h2{
             text-align: center;
         }
+        .error{
+            color: red;
+        }
     </style>
 </head>
 <body>
@@ -31,7 +34,7 @@
     </header>
     <main>
         <h2>Ingresar productos</h2>
-        <form>
+        <form action="insert.php" method="post">
             <label for="nombre">Nombre</label>
             <input type="text" name="nombre">
             <label for="categoria">Categoria</label>
