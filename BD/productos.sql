@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Temps de generació: 04-02-2026 a les 13:52:11
+-- Temps de generació: 04-02-2026 a les 13:56:23
 -- Versió del servidor: 10.4.32-MariaDB
 -- Versió de PHP: 8.2.12
 
@@ -39,6 +39,8 @@ CREATE TABLE `producto` (
 -- Bolcament de dades per a la taula `producto`
 --
 
+INSERT INTO `producto` (`id`, `nombre`, `categoria`, `proveedor`, `stock`) VALUES
+(1, 'Paco', 'Zapatos2002', 'Kiko SA', 4);
 
 --
 -- Índexs per a les taules bolcades
