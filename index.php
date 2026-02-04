@@ -43,7 +43,6 @@
             <input type="text" name="proveedor">
             <label for="stock">Stock</label>
             <input type="number" name="stock">
-
             <input type="submit" value="Enviar">
         </form>
     </main>

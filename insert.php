@@ -26,6 +26,8 @@ if ($conn->query($sql) === TRUE) {
 } else {
   echo "<p class=\"error\">Error: " . $sql . "<br>" . $conn->error ."</p>";
 }
+}else{
+  echo "<p class=\"error\">Ha ocurrido algo en la validación de los datos</p>";
 }
 }else{
   echo "<p class=\"error\">Ha ocurrido algo en los datos proporcionados.<p>";
